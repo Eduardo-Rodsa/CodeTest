@@ -1,4 +1,4 @@
-import 'package:code_test/code_test.dart' as code_test;
+import 'package:code_test/code_challenge.dart' as code_test;
 import 'dart:io';
 
 void main() {
@@ -16,3 +16,5 @@ void main() {
 
   print('El siguiente número primo palindromo al ingresado es: $nxtPrimePal');
 }
+
+//resultd debe ser 49

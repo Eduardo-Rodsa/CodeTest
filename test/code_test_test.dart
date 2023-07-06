@@ -1,4 +1,4 @@
-import 'package:code_test/code_test.dart';
+import 'package:code_test/code_challenge.dart';
 import 'package:test/test.dart';
 
 void main() {
